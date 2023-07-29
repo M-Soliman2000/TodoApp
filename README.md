@@ -6,5 +6,5 @@ SpringBoot-MySQL-RestAPI
  application provides the Basic operation like add ,retrieve
  ,delete for managing tasks effectively.
 
--Technologies: SpringBoot, Rest_API , MySQL, junit, Exception
+- Technologies: SpringBoot, Rest_API , MySQL, junit, Exception
 handling , security
